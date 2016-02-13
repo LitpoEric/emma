@@ -1,4 +1,4 @@
-# Emma multimaps
+# Emma Multimaps
 
 This project contains a set of Multimaps I use. These data structures are replacements for times when you have a Dictionary where the value type is not just one value, for example a list.
 
