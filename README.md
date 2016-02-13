@@ -1,2 +1,3 @@
-# emma
-multimaps for c#
+# Emma multimaps
+
+This project contains a set of Multimaps I use. 
